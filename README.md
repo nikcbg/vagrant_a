@@ -7,7 +7,7 @@
 
 File name                            | File description 
 ------------------------------------ | --------------------------------------------------------------
-`Vagrantfile` | file with sript that sets the name of the Ubuntu-xenial box to "bananas3".
+`Vagrantfile` | file with sript that defines machine and software requirements and sets the name of the box to "bananas3".
 
 
 ### How to use this repository. 
