@@ -1,5 +1,5 @@
 #script to install nginx
 
-apt-get -y update
-apt-get -y install -y nginx
-apt-get clean"
+sudo apt-get -y update
+sudo apt-get -y install -y nginx
+sudo apt-get clean"
