@@ -8,7 +8,7 @@
 File name                            | File description 
 ------------------------------------ | --------------------------------------------------------------
 `Vagrantfile` | file with sript that defines machine and software requirements and sets the name of the box to "bananas3".
-
+`scripts/provision.sh` | script that installs `nginx`
 
 ### How to use this repository. 
 - Install `virtualbox` by following this [instructions](https://www.virtualbox.org/wiki/Downloads).
@@ -24,4 +24,7 @@ Command execution                    | Command outcome
 
 
 ### TO DO:
-- Check if hostname is "bananas3"
+- Check if hostname is "bananas3".
+- Check if `nginx` is installed.
+- Check if IP is 192.168.56.56.
+- Check if port forwarding is set up.
