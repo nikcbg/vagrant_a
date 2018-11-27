@@ -1,9 +1,7 @@
 # vagrant_a
 
-# docker_nginx
-
 ### Purpose of the repository 
-- The repository creates Ubuntu-xenial box and `docker` image with `nginx` installed.
+- The repository uses Ubuntu-xenial64 box already uploaded in `vagrant` cloud and sets the hostname to "bananas3".
 
 #### List of files in the repository
 
